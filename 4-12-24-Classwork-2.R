@@ -1,3 +1,4 @@
+#Sivaparvathi Yanikapati
 # Fahrenheit temperatures
 fahrenheit <- c(45, 77, 20, 19, 101, 120, 212)
 
